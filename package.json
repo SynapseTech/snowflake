@@ -1,0 +1,13 @@
+{
+  "name": "@synapsetech/snowflake",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SynapseTech/snowflake"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
